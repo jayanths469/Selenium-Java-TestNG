@@ -1,0 +1,7 @@
+1. This framework required TestNG and Selenium
+2. For configuration of selenium and TestNG u can contact me 
+3. Each method has help text what each method will do.
+4. For anyother help reach Jayanth Sunkari (@sunkari27@gmail.com)
+
+
+____________________________________________________________________________________
